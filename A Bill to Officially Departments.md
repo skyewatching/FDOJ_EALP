@@ -56,7 +56,7 @@ PREAMBLE: Plenty of departments on here have already been defined using other bi
 
 **SECTION 2**: The following departments shall be considered state departments under the executive branch; Firestone State Patrol, Firestone National Guard, Firestone Department of Transportation, Firestone Department of Homeland Security, Firestone Department of Justice, Firestone Department of Corrections, Firestone Department of Public Safety, Firestone Department of Public works, Firestone Department of Health, Firestone Department of State, Firestone Department of Aviation, The Department of Boating and Waterways, and Firestone Peace Officer Standards and Training.[^1]
 
-A: All Department heads of the departments defined in Section 2 shall be members of the state cabinet and the Governor of the state of Firestone shall be permitted to make administrative decisions within all of the departments defined in Section 2.[^1]
+A. All Department heads of the departments defined in Section 2 shall be members of the state cabinet and the Governor of the state of Firestone shall be permitted to make administrative decisions within all of the departments defined in Section 2.[^1]
 
 **SECTION 3**: The Firestone State Congress shall enforce this legislation.
 
