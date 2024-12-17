@@ -12,7 +12,7 @@ Amendments: (list)
 
 BE IT ENACTED BY THE STATE OF FIRESTONE CONGRESS HERE ASSEMBLED THAT:
 
-## PREAMBLE: Plenty of departments on here have already been defined using other bills, or have been “loophole defined”. This is to be a hub that officially defines things that need definition, such as FITE, as well as things that have already been defined, such as Firestone State Patrol. This bill is made to clear up any legal loopholes involving departments.
+PREAMBLE: Plenty of departments on here have already been defined using other bills, or have been “loophole defined”. This is to be a hub that officially defines things that need definition, such as FITE, as well as things that have already been defined, such as Firestone State Patrol. This bill is made to clear up any legal loopholes involving departments.
 
 SECTION 1: The following are departments in the State of Firestone, and shall be officially defined as such:
 
@@ -64,11 +64,3 @@ Respectfully submitted to the Congress of the State of Firestone,
 
 Chief Sponsor:
 Representative OfficerVideoGame
-
-Co-Sponsors:
-Speaker of The House, Virginian_State
-Senator, Sir_Mr
-Firestone State Patrol Lieutenant Colonel, FS POST Director, buford1842
-DHS Temporary Deputy Secretary Airplane1222
-DHS Intelligence Office Chief, LeaderAFL
-DHS Intelligence Office, Secret Service, kale566
