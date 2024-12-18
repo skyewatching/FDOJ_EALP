@@ -1,9 +1,9 @@
 # A Bill to Officially Departments -- 2017
 Last updated on 12/17/24 by Skyewatch_RBLX
 
-Original: [https://forums.stateoffirestone.com/t/a-bill-to-officially-departments/2450](A Bill to Officially Departments) (2017)
+Original: [A Bill to Officially Departments](https://forums.stateoffirestone.com/t/a-bill-to-officially-departments/2450) (2017)
 Amendments: 
-- [https://forums.stateoffirestone.com/t/a-bill-to-officially-define-executive-departments/9632](A Bill to Officially Define Executive Departments) (2019)
+- [A Bill to Officially Define Executive Departments](https://forums.stateoffirestone.com/t/a-bill-to-officially-define-executive-departments/9632) (2019)
 
 
 ---
@@ -66,4 +66,4 @@ PREAMBLE: Plenty of departments on here have already been defined using other bi
 
 ---
 
-[^1]: Amended by [https://forums.stateoffirestone.com/t/a-bill-to-officially-define-executive-departments/9632](A Bill to Officially Define Executive Departments)
+[^1]: Amended by [A Bill to Officially Define Executive Departments](https://forums.stateoffirestone.com/t/a-bill-to-officially-define-executive-departments/9632)
