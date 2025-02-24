@@ -27,8 +27,16 @@ PREAMBLE TEXT AND OTHER CONTENT
 
     - SECTION a: TEXT
 
+        - SECTION 1: TEXT
+
 - SECTION 2C: TEXT
 
 ---
 
 [^1]: Amended by [AMENDMENT NAME](link)
+
+---
+
+Chief Sponsor:
+
+Co-Sponsors:
