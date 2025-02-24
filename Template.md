@@ -1,0 +1,32 @@
+# TITLE - FULL YEAR
+Last updated on MM/DD/YY by USERNAME
+Contributors: USERNAME, USERNAME, USERNAME
+
+Original: [NAME](link) (FULL YEAR)
+Amendments: (**if applicable**)
+- [AMENDMENT NAME](link) (FULL YEAR)
+
+
+---
+
+# Title
+
+PREAMBLE TEXT AND OTHER CONTENT
+
+**SECTION 1**: TEXT
+
+- SECTION 1A: TEXT
+-- SECTION a1: TEXT WITH CITATION[^1]
+
+**SECTION 2**: TEXT
+
+- SECTION 2A: TEXT
+
+- SECTION 2B: TEXT
+-- SECTION a: TEXT
+
+- SECTION 2C: TEXT
+
+---
+
+[^1]: Amended by [AMENDMENT NAME](link)
