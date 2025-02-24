@@ -2,6 +2,7 @@
 Last updated on 12/17/24 by Skyewatch_RBLX
 
 Original: [A Bill to Officially Departments](https://forums.stateoffirestone.com/t/a-bill-to-officially-departments/2450) (2017)
+
 Amendments: 
 - [A Bill to Officially Define Executive Departments](https://forums.stateoffirestone.com/t/a-bill-to-officially-define-executive-departments/9632) (2019)
 
