@@ -67,3 +67,16 @@ PREAMBLE: Plenty of departments on here have already been defined using other bi
 ---
 
 [^1]: Amended by [A Bill to Officially Define Executive Departments](https://forums.stateoffirestone.com/t/a-bill-to-officially-define-executive-departments/9632)
+
+---
+
+Chief Sponsor:
+Representative OfficerVideoGame
+
+Co-Sponsors:
+Speaker of The House, Virginian_State
+Senator, Sir_Mr
+Firestone State Patrol Lieutenant Colonel, FS POST Director, buford1842
+DHS Temporary Deputy Secretary Airplane1222
+DHS Intelligence Office Chief, LeaderAFL
+DHS Intelligence Office, Secret Service, kale566
